@@ -90,8 +90,35 @@ Creates fabric-samples folder
 
 **This spins up a local test Fabric network using Docker containers.**
 
+# 9. creating channel
+![image](https://github.com/user-attachments/assets/32d745d9-1203-49fd-8dc4-408feaea8577)
 
-# 9.Deploy Chaincode (Smart Contract)
+![image](https://github.com/user-attachments/assets/ff9413c0-0cfb-4ea2-b2bc-c8264567cd95)
+
+![image](https://github.com/user-attachments/assets/38e9c4da-6bd1-48cf-92b6-7ba862a9cc39)
+
+
+![image](https://github.com/user-attachments/assets/97f85294-1b5f-4576-9f69-b9072c49754e)
+
+
+
+
+# 10.Deploy Chaincode (Smart Contract)
 
                     ./network.sh deployCC -ccn basic -ccp ../asset-transfer-basic/chaincode-go -ccl go
 
+![image](https://github.com/user-attachments/assets/7e2fb64c-afbc-4b5b-971e-35b66f777e4c)
+
+
+![image](https://github.com/user-attachments/assets/787c1b6a-2f78-44ca-8c3f-8939d46e40f3)
+
+
+![image](https://github.com/user-attachments/assets/0ac01502-c5e6-4d87-866a-245813176e27)
+
+
+
+
+ # 5. Interact with the Network
+
+
+![image](https://github.com/user-attachments/assets/e160ced0-66af-490c-97f3-bddfa19b66fc)
