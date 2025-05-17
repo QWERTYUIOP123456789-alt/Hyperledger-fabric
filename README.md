@@ -118,7 +118,25 @@ Creates fabric-samples folder
 
 
 
- # 5. Interact with the Network
+ # 11. Interact with the Network
 
 
 ![image](https://github.com/user-attachments/assets/e160ced0-66af-490c-97f3-bddfa19b66fc)
+
+
+
+# 12. Upload to GitHub
+
+![image](https://github.com/user-attachments/assets/d49676d6-f227-47aa-9695-eca3b4c24846)
+
+
+
+# 13. Shut Down the Network
+Once your work is done:
+
+     cd ~/fabric-project/fabric-samples/test-network
+     ./network.sh down
+
+
+![image](https://github.com/user-attachments/assets/aea6427b-41ae-44f2-a847-42af94cf0cde)
+![image](https://github.com/user-attachments/assets/2e9f6a35-ce0b-4c3c-b406-c743b2990584)
